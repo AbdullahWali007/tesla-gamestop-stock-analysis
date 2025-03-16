@@ -45,5 +45,5 @@ The project leverages the following libraries:
 This project demonstrates how to extract and analyze financial data using Python. It provides insights into how Tesla and GameStop’s stock prices correlate with their revenue trends. The interactive graphs make it easier to visualize financial performance over time.
 
 ## Author
-[Muhammad Abdullah Wali]  
+Muhammad Abdullah Wali 
 
